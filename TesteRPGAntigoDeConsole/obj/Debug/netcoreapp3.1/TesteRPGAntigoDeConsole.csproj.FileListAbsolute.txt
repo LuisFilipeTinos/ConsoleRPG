@@ -1,0 +1,13 @@
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\bin\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.exe
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\bin\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.deps.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\bin\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.runtimeconfig.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\bin\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.runtimeconfig.dev.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\bin\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\bin\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.csprojAssemblyReference.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.AssemblyInfoInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.AssemblyInfo.cs
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.csproj.CoreCompileInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\TesteRPGAntigoDeConsole\TesteRPGAntigoDeConsole\obj\Debug\netcoreapp3.1\TesteRPGAntigoDeConsole.genruntimeconfig.cache

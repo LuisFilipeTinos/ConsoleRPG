@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGKJDE9JrZ8kC5jwqgU3g+gNsr++JRbSoA04j3oOoG20MuYyC+5rWGEEjiWPRh+NAftQn6BfTOTwkEC5aje69A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55149\\Desktop\\Work Space - Visual Studio\\TesteRPGAntigoDeConsole\\TesteRPGAntigoDeConsole\\TesteRPGAntigoDeConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55149\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
